@@ -1,0 +1,263 @@
+.conteyner {
+  width: 1200px;
+  margin: 0 auto;
+}
+.baground {
+  background: #f4f5f5;
+  margin-top: -10px;
+  height: 40px;
+}
+.p-2 {
+  border-bottom: 1px solid;
+  width: 61px;
+}
+.lacation {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.p-3 {
+  margin-left: 20px;
+}
+.p-4{
+    color: #62656A;
+}
+.p-5{
+    color: #62656A;
+}
+.p-6{
+    color: #62656A;
+}
+.p-7{
+    color: #62656A;
+}
+.p-1{
+    color: #62656A;
+}
+.element{
+    display: flex;
+    justify-content: space-between;
+}
+.header__right{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.p-5:hover{
+    color: black;
+    cursor: pointer;
+}
+.p-6:hover{
+    color: black;
+    cursor: pointer;
+}
+.p-7:hover{
+    cursor: pointer;
+}
+.p-3:hover{
+    cursor: pointer;
+}
+.p-1:hover{
+    cursor: pointer;
+}
+.p-2:hover{
+    cursor: pointer;
+}
+
+
+
+element.style {
+}
+.ui-button.small[data-v-57aaf377] .slot.default {
+    margin: 0 4px;
+}
+.ui-button .slot[data-v-57aaf377] {
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+element.style {
+    --out: #eaeaf9;
+}
+header .ui-button.show-catalog .icon {
+    margin-right: 8px;
+}
+.catalog-icon, .catalog-icon * {
+    cursor: pointer;
+}
+.catalog-icon {
+    --out: #fff;
+    height: 24px;
+    position: relative;
+    width: 24px;
+}
+element.style {
+}
+.catalog-icon .rect {
+    background: #5c5cd6;
+    border: 2px solid #5c5cd6;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 12px;
+    left: 50%;
+    position: absolute;
+    top: 9px;
+    transform: translate(-50%);
+    transition: all .11s ease-out .11s,transform .11s ease-out .001ms;
+    width: 18px;
+}
+element.style {
+}
+.catalog-icon .rect .inner {
+    background-color: var(--out);
+    border-radius: 1px;
+    height: 100%;
+    margin: auto;
+    transition: all .11s ease-out .11s;
+    width: 100%;
+}
+.catalog-icon, .catalog-icon * {
+    cursor: pointer;
+}
+element.style {
+}
+.catalog-icon .rect .inner {
+    background-color: var(--out);
+    border-radius: 1px;
+    height: 100%;
+    margin: auto;
+    transition: all .11s ease-out .11s;
+    width: 100%;
+}
+.catalog-icon, .catalog-icon * {
+    cursor: pointer;
+}
+.catalog-icon .top {
+    top: 3px;
+    transition: all .11s ease-out .11s,opacity .001ms .11s;
+    width: 13.991999999999999px;
+}
+
+.catalog-icon .bottom, .catalog-icon .top {
+    border-top: 2px solid #5c5cd6;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    height: 0;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
+element.style {
+}
+.catalog-icon .bottom, .catalog-icon .top {
+    border-top: 2px solid #5c5cd6;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    height: 0;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
+.catalog-icon .bottom {
+    background: #5c5cd6;
+    top: 6px;
+    transition: all .11s ease-out .11s,transform .11s ease-out .001ms;
+    width: 15.984000000000002px;
+}
+.catalog-icon, .catalog-icon * {
+    cursor: pointer;
+}
+
+.header__btn{
+    background: rgba(49,49,196,.15);
+    border: none;
+    border-radius: 5px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.btn__text{
+    color: #5c5cd6;
+    font-size: 15px;
+}
+#input{
+    border: 1px solid hsla(220,4%,48%,.3);
+    border-radius: 4px;
+    width: 500px;
+    font-size: .875rem;
+    font-weight: 400;
+    padding: 15px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    margin-top: 22px;
+    justify-content: space-between;
+}
+.header__search{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.input__btn{
+    border: none;
+    width: 90px;
+    position: absolute;
+    left: 440px;
+    height: 100%;
+    background: hsla(220,4%,48%,.05);
+}
+#form{
+    position: relative;
+}
+.login{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.Saralangan{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.Savat{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.header__savat{
+    display:flex;
+    gap: 20px;
+}
+.nav__list{
+    list-style: none;
+}
+.nav__img{
+    width:25px;
+}
+.nav__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+    color: #636363;
+}
+.nav__items{
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.nav__plus{
+    display: flex;
+    align-items: center;
+}
+
+.nav__item:hover{
+    color: black;
+    border-bottom: 2px solid ;
+}
+.nav__plus:hover{
+    color: black;
+}
